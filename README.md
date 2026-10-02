@@ -26,3 +26,7 @@ Proof of Autonomous Agency (PoA) ist ein kryptographisches Protokoll zur fälsch
 
 ## Wesentliche Abgrenzung
 PoA beweist weder "Intelligenz" noch "Bewusstsein". Es dient ausschließlich als Nachweis einer kryptographisch verifizierbaren, autonomen Ausführung (Proof of Cryptographically Verifiable Autonomous Execution, PCVAE) frei von unbefugten Eingriffen.
+
+## Contact
+Fiona Schneiter
+f.schneiter@gmail.com
